@@ -1,0 +1,4 @@
+o  Get main window up with title in and 5 tabs occupying the rest.
+    o  Get something you can see
+    o  Consider mgmt of names and variables.
+    o  What about sprintf like formatting built in?
